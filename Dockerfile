@@ -1,4 +1,4 @@
-FROM php:alpine
+FROM php:5.6-alpine
 MAINTAINER Matthias Vogel <git@kanti.de>
 
 # add file for https://github.com/pluswerk/grumphp-bom-task
